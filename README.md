@@ -23,7 +23,7 @@ By the end of this course, students should be able to:
 * **Lectures:** M/W/F 12:20-1:20pm, Torgersen Hall, Room 1060
 
 * **Exam:** Wed April 24 
-* **Instructor:** [Shawal Khalid](https://chbrown13.github.io) [shawal@vt.edu], *Office hours:* Upon request
+* **Instructor:** [Shawal Khalid](https://chbrown13.github.io) [shawal@vt.edu]
 * **GTA:** Hunter Leary [hunterl22@vt.edu] 
 * **GTA:** Torres Molina, Richard [richardat@vt.edu]
 
