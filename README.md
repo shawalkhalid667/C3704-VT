@@ -36,9 +36,9 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 17 | Introduction | [**HW0**](HWs/HW0.md) |
 | Jan 19 | SE History | |
-| Jan 22 | Software Process | HW0 due |
+| Jan 22 | Software Process | 
 | Jan 24 | Software Process (cont.) | [**HW1**](https://canvas.vt.edu/courses/) |
-| Jan 26 | [[Workshop] Software Engineering Basics]([https://github.com/CS3704-VT/Course/tree/main/resources/slides](https://docable.cloud/api/share/dcbrown/v/63c9b2bfc2f71672f7c45475)) |  |
+| Jan 26 | [[Workshop] Software Engineering Basics]([https://github.com/CS3704-VT/Course/tree/main/resources/slides](https://docable.cloud/api/share/dcbrown/v/63c9b2bfc2f71672f7c45475)) | HW0 due |
 | Jan 29 | Agile Development  | |
 | Jan 31 | Agile Development (cont.) |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
