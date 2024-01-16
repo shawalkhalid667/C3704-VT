@@ -16,9 +16,6 @@ The primary mode of communication for the course this semester will be Slack. Co
 - [ ] Set your full name to be your first and last name. Your display name should be your first name (or name you prefer to go by).
 - [ ] Upload a recent photo of yourself (professional headshot or one that meets [passport photo guidelines](https://travel.state.gov/content/travel/en/passports.html/pptphotoreq/photocomptemplate/photocomptemplate_5297.html)) for your profile photo.
 
-Good example ✅: <img src="../resources/imgs/IMG_3538.jpg" width="250"/>
-
-Bad example ❌: <img src="../resources/imgs/badexample.jpeg" width="250"/>
 
 ### Introductions
 
