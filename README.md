@@ -49,9 +49,9 @@ By the end of this course, students should be able to:
 | Feb 12 | [Workshop] Requirements | |
 | Feb 14 | Requirements Specification | |
 | Feb 16 | Requirements Engineering | |
-| Feb 19 | Usecase Modeling | PM1 due |
-| Feb 21 | Usecase Diagrams | **HW2** |
-| Feb 23 | Domain Modeling & Class Diagrams | |
+| Feb 19 | ⚡ Talks | PM1 due |
+| Feb 21 | ⚡ Talks | **HW2** |
+| Feb 23 | ⚡ Talks | |
 | Feb 26 | [Discussion] SE Processes | |
 | Feb 28  | Project Management | **PM2** |
 | Mar 01  |  Project Workday | |
