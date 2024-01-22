@@ -20,7 +20,7 @@ By the end of this course, students should be able to:
 
 ### Spring 2024 Course Info
 
-* **Lectures:** M/W/F 12:20-1:20pm, Torgersen Hall, Room 1060
+* **Lectures:** M/W/F 12:20-1:10pm, Torgersen Hall, Room 1060
 
 * **Exam:** Wed April 24 
 * **Instructor:** [Shawal Khalid](https://chbrown13.github.io) [shawal@vt.edu]
