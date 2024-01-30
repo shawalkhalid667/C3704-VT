@@ -1,8 +1,13 @@
-# PM0
+# Project Ideas
 
-### Project Intro Survey (5%)
+Below are some sample ideas for possible project topics:
 
-Complete the [PM0](https://canvas.vt.edu/courses/185406/quizzes/511911) quiz on Canvas to provide your project group preferences and ask any questions about the guidelines for the course project.
-
-**Due:** Friday, Feb 02 at 11:59pm
-- [ ] Completed survey (all students must complete this, even if you don't have teammate requests or questions)
+* **Standup Bot:** A software bot to automate support for standup meetings between teammates.
+* **IssueBot:** Automatically perform issue or pull request maintainance tasks (such as closing stale issues, pinging owners, etc.).
+* **RewardBot:** System that randomly rewards team members for performing actions (i.e. answering Stack Overflow questions, posting Slack messages, commiting code to a repo, etc.).
+* **FocusBot:** Help team members to be productive while working remotely (Provide productivity aids, such as pomodoros, daily reminders, incomplete tasks, etc.).
+* **ProcessBot:** System to help team members stay on track for processes related to specific software engineering processes (i.e. waterfall, XP, etc.).
+* **TODO App:** Desktop application to help developers keep track of tasks and prioritize items.
+* **Example Finder:** Find and provide examples of usage for a given API method.
+* **Virtual Standups:** Design an online platform to conduct virtual standups with remote teammates.
+* **Team Kanban:** Collaborative Kanban board to promote team communication and collaboration (be sure to explain how this is different from existing tools).
