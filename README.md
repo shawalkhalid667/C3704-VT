@@ -48,8 +48,8 @@ By the end of this course, students should be able to:
 | Feb 09 | Requirements Analysis (cont.) |  |
 | Feb 12 | [Workshop] Requirements | |
 | Feb 14 | Requirements Specification | |
-| Feb 16 | Project Workday| |
-| Feb 19 | ⚡ Talks | PM1 due |
+| Feb 16 | Project Workday| PM1 due |
+| Feb 19 | ⚡ Talks |  |
 | Feb 21 | ⚡ Talks | **HW2** |
 | Feb 23 | ⚡ Talks | |
 | Feb 26 | Requirements Engineering  | |
