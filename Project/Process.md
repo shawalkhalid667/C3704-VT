@@ -42,6 +42,6 @@ Your project team must also submit a project proposal document. The proposal mus
 
     **Rubric: TBD**
 
- **Due:** Feb 16  at 11:59pm
+ **Due:** Feb 18  at 11:59pm
 - [ ] Lightning talk slides
 - [ ] Proposal document
