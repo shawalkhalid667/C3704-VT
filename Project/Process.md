@@ -3,7 +3,7 @@
 ### __Lightning Talk__ (15%)
 Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least one** example `requirement` use cases (see below for details). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work. The slides for your presentation are due with PM1, and lightning talks will take place in class Feburary 19, 21, and 23. The order of lightning talks will be randomly decided immediately before class.
 
-   **Rubric: TBD**
+  
 
 #### __Use Case__
 
@@ -40,7 +40,7 @@ Your project team must also submit a project proposal document. The proposal mus
 
  * You will receive feedback from the teaching staff on the document and presentation for your proposal to approve of your course project for the semester.
 
-    **Rubric: TBD**
+
 
  **Due:** Feb 18  at 11:59pm
 - [ ] Lightning talk slides
