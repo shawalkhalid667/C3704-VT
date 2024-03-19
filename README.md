@@ -65,8 +65,8 @@ By the end of this course, students should be able to:
 | Mar 18 | Database Design |  |
 | Mar 20 | Detailed Design | |
 | Mar 22 | [Workshop] Design Patterns | HW3 due |
-| Mar 25 | Detailed Design (cont.) | **PM3** |
-| Mar 27 | [Discussion] Design |  |
+| Mar 25 | [Discussion] Design | **PM3** |
+| Mar 27 | Detailed Design (cont.) |  |
 | Mar 29 | [Discussion] Testing |  |
 | Apr 01 | Coding Metrics |  |
 | <tr><th colspan=3>  🚧 &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
