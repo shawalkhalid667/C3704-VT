@@ -24,7 +24,7 @@ By the end of this course, students should be able to:
 
 * **Exam:** Friday, April 26th 
 * **Instructor:** Shawal Khalid [shawal@vt.edu]
-* 
+  
 * **GTA:** Hunter Leary [hunterl22@vt.edu] 
 * **GTA:** Torres Molina Richard [richardat@vt.edu]
 * **GTA:** Gayatri Bhatambarekar [gayatrimilind@vt.edu]
