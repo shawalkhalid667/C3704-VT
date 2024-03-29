@@ -66,7 +66,7 @@ By the end of this course, students should be able to:
 | Mar 20 | Detailed Design | |
 | Mar 22 | [Workshop] Design Patterns | HW3 due |
 | Mar 25 | [Discussion] Design | **PM3** |
-| Mar 27 | Detailed Design (cont.) |  |
+| Mar 27 | Detailed Design (Research Discussion) |  |
 | Mar 29 | [Discussion] Testing |  |
 | Apr 01 | Coding Metrics |  |
 | <tr><th colspan=3>  🚧 &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
