@@ -18,7 +18,7 @@ The driver must complete their portion of the program on their own machine. When
 up with the most efficient or correct solution---this is an activity to practice pair programming and track attendance, not a job interview. Only the conversion 
 methods are needed.
 
-> ### Submission: On Canvas
+### Submission: On Canvas
 
 Name and VT ID of Your Partner:
 Partner's Name: [Partner's Name]
