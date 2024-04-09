@@ -18,4 +18,17 @@ The driver must complete their portion of the program on their own machine. When
 up with the most efficient or correct solution---this is an activity to practice pair programming and track attendance, not a job interview. Only the conversion 
 methods are needed.
 
-Each student must complete the following survey to receive credit: [https://forms.gle/dgdCG5Tw4wFgRZgG8](https://forms.gle/dgdCG5Tw4wFgRZgG8).
+> ### Submission: On Canvas
+
+Name and VT ID of Your Partner:
+Partner's Name: [Partner's Name]
+VT ID: [Partner's VT ID]
+
+Your Role: [Driver/Navigator/Both]
+
+Experience with Pair Programming:
+How was your experience completing this pair programming activity?
+What is your general experience with and opinions on pair programming?
+
+Source Code File:
+Please upload the source code file as well.
