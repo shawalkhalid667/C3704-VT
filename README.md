@@ -87,9 +87,11 @@ By the end of this course, students should be able to:
 | Apr 17 | [Discussion] Advanced Topics | |
 | Apr 19 | Exam Review | HW4 due |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
-| Apr 26 | Exam | |
-| Apr 29 | Final Project Demos | PM4 slides due |
-| May 01 | Final Project Demos | |
-| May 03 | Final Project Demos | PM4 due |
+| Apr 22 | Final Project Demos | PM4 slides due |
+| Apr 24 | Final Project Demos | |
+| Apr 26 | Final Project Demos | PM4 due |
+| Apr 29 | Exam Prep | |
+| May 01 | Exam Day | |
+
 
 Credit: Dr. Chris Brown
