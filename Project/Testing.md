@@ -11,7 +11,7 @@ Black box test plans are documents that use plain language for stakeholders to f
 
 ### __Final Presentation__ (15%)
 
-Instead of a final exam, your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ PM4 on December 4th before class. The final presentations will take place in class December 4, 6, and 11. The order of lightning talks will be randomly selected immediately before class on April 22nd.
+Instead of a final exam, your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ PM4 on December 4th before class. The final presentations will take place in class April 22, 24, and 26. The order of lightning talks will be randomly selected immediately before class on April 22nd.
   
  **Rubric: [Final Presentation](https://github.com/shawalkhalid667/C3704-VT/blob/main/Resources/rubrics/final_presentation.pdf)**
 
