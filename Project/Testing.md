@@ -29,7 +29,7 @@ The final report must be no more than 10 pages (not including references) and fo
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
     
-   **Rubric: [Final Report](../resources/rubrics/final_report.pdf)**
+   **Rubric: [Final Report](https://github.com/shawalkhalid667/C3704-VT/blob/main/Resources/rubrics/final_report.pdf)**
 
 ### __Retrospective__ (2%)
 At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
