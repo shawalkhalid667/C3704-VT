@@ -7,7 +7,7 @@ A test plan is a detailed document that outlines test cases for a given software
 * Specific: descriptive steps to follow
 * Focused: Each test should only analyze one particular function of the system
 
-Black box test plans are documents that use plain language for stakeholders to follow to verify the program. You must create a black box test plan with at least ten unique black box est cases with the required test case information (see a template in the [Lecture Slides](../resources/slides/testing.pdf)). If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit).
+Black box test plans are documents that use plain language for stakeholders to follow to verify the program. You must create a black box test plan with at least ten unique black box est cases with the required test case information (see a template in the [Lecture Slides](https://canvas.vt.edu/courses/185406/files/33190338?module_item_id=2872786)). If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit).
 
 ### __Final Presentation__ (15%)
 
