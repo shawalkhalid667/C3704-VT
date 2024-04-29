@@ -34,7 +34,7 @@ The final report must be no more than 10 pages (not including references) and fo
 ### __Retrospective__ (2%)
 At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
 
-**[Retrospective Survey](https://docs.google.com/forms/](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=hGiVYK0Q-kCGPU8yweOjeisEns1ZJ8tDohcqf-TzEN1UMEI2RE8zVTdTSVZSVkUyRjhSQzBKNkgwRS4u))**
+**[Retrospective Survey](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=hGiVYK0Q-kCGPU8yweOjeisEns1ZJ8tDohcqf-TzEN1UMEI2RE8zVTdTSVZSVkUyRjhSQzBKNkgwRS4u)**
 
 **Due:** April 29 at 11:59pm
 - [ ] Final presentation slides
